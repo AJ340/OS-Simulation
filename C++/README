@@ -1,0 +1,28 @@
+README
+
+
+//Created by Andres Quinones on 5/12/2016
+//Copyright 2016, Andres Quinones, All rights reserved.
+
+Project was created and worked on soley by Andres Quinones as a HomeProject for 
+CSCI 340 at Hunter College with Professor Pavel Shostak
+
+
+this program is a simulation of how a basic operating system functions
+
+
+Usage
+
+compiling
+
+make or make all or g++ main.cpp -o aq_simulation
+
+and then running by doing
+
+aq_simulation 	(for linux)
+./aq_simulation  (for mac OSX)
+
+you can clean up any .o files by running make clean
+
+
+
